@@ -1,4 +1,4 @@
-### UBUNTU 16 / DEBIAN 9
+### DEBIAN 9 / UBUNTU 16
 
 # tasksel
 
@@ -24,7 +24,7 @@ apt install tcpdump shellcheck bash-completion -y
 
 apt install vim-gnome terminator conky gparted -y
 
-### MORE
+### OFFICE CAD GRAPHICS MUSIC ART
 
 apt install thunar rhythmbox synaptic -y
 
@@ -42,19 +42,19 @@ apt install fontforge -y
 
 apt install mixxx lmms -y
 
-apt installl ardour audicity xmms
+apt installl ardour audicity xmms -y
 
-apt-get install hexchat wireshark nmap pidgin -y
+apt install hexchat wireshark nmap pidgin -y
 
-apt-get install irssi-scripts vim-doc vim-scripts -y
+apt install irssi-scripts vim-doc vim-scripts -y
 
-### UNITY3d
+### UNITY3D
 
-apt-get install monodevelop mono-reference-assemblies-* -y
+#apt-get install monodevelop mono-reference-assemblies-* -y
 
-### FOR UNREAL
+### UNREAL
 
-apt-get install codelite codelite-plugins -y
+#apt-get install codelite codelite-plugins -y
 
 ### KDE
 
@@ -68,6 +68,6 @@ apt-get install kdevelop qtcreator -y
 # install ~/.tmux.conf
 # install ~/.vimrc
 
-apt install eclipse eclipse-cdt -y
+#apt install eclipse eclipse-cdt -y
 
-apt install gradle -y
+#apt install gradle -y
