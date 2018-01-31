@@ -50,7 +50,7 @@ apt install fontforge -y
 
 apt install mixxx lmms -y
 
-apt install ardour audicity -y
+apt install ardour audacity -y
 
 apt install hexchat wireshark nmap pidgin -y
 
