@@ -1,4 +1,4 @@
-### DEBIAN 9 / UBUNTU 16
+### DEBIAN 9
 
 # tasksel
 
