@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -e
+
 cp tmux.conf ~/.tmux.conf
 cp vimrc ~/.vimrc
 

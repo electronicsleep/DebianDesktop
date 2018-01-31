@@ -1,3 +1,7 @@
+#!/bin/bash
+
+set -e
+
 ### DEBIAN 9
 
 # tasksel
@@ -24,6 +28,10 @@ apt install tcpdump shellcheck bash-completion -y
 
 apt install vim-gnome terminator conky gparted -y
 
+apt install xfce4 xfce4-goodies task-xfce-desktop
+
+apt install xfce4-whiskermenu-plugin xfce4-indicator-plugin -y
+
 ### OFFICE CAD GRAPHICS MUSIC ART
 
 apt install thunar rhythmbox synaptic -y
@@ -42,7 +50,7 @@ apt install fontforge -y
 
 apt install mixxx lmms -y
 
-apt installl ardour audicity xmms -y
+apt install ardour audicity -y
 
 apt install hexchat wireshark nmap pidgin -y
 
