@@ -26,7 +26,7 @@ apt install tcpdump shellcheck bash-completion -y
 
 ### SIMPLE
 
-apt install vim-gnome terminator conky gparted -y
+apt install vim-gnome terminator conky gparted gdisk -y
 
 apt install xfce4 xfce4-goodies task-xfce-desktop
 
