@@ -26,7 +26,7 @@ apt install tcpdump shellcheck bash-completion -y
 
 ### SIMPLE
 
-apt install vim-gnome terminator conky gparted gdisk -y
+apt install vim-gnome terminator conky psensors gparted gdisk -y
 
 apt install xfce4 xfce4-goodies task-xfce-desktop
 
@@ -36,7 +36,7 @@ apt install xfce4-whiskermenu-plugin xfce4-indicator-plugin -y
 
 apt install thunar rhythmbox synaptic -y
 
-apt install keepassx inkscape vlc -y
+apt install keepassx inkscape vlc handbrake gxine -y
 
 apt install libreoffice -y
 
@@ -48,7 +48,7 @@ apt install gnome-builder -y
 
 apt install fontforge -y
 
-apt install mixxx lmms -y
+apt install mixxx lmms terminatorx hydrogen -y
 
 apt install ardour audacity -y
 
