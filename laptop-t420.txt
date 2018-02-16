@@ -1,0 +1,25 @@
+### Debian 9 Lenovo t420
+
+# xfce debian 9 disk
+
+# graphical install
+
+# Debian xfce standard system
+
+# do not configure network at this time
+
+### WIFI
+
+# vi /etc/apt/sources.list 
+
+# deb http://httpredir.debian.org/debian/ stretch main contrib non-free
+
+# apt-get update && apt-get install firmware-iwlwifi
+
+# modprobe -r iwlwifi ; modprobe iwlwifi
+
+# apt install git
+
+# mkdir ~/Repos
+
+# git clone git@github.com:electronicsleep/DebianDesktop.git

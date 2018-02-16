@@ -22,7 +22,9 @@ apt install htop tree ssh fail2ban rsync git -y
 
 apt install screen nload iotop vim irssi wget lynx tmux -y
 
-apt install tcpdump shellcheck bash-completion -y
+apt install tcpdump shellcheck bash-completion nmap -y
+
+apt install vim-doc vim-scripts irssi-scripts -y
 
 ### SIMPLE
 
@@ -50,11 +52,9 @@ apt install fontforge -y
 
 apt install mixxx lmms terminatorx hydrogen -y
 
-apt install ardour audacity -y
+apt install ardour audacity xmms -y
 
-apt install hexchat wireshark nmap pidgin -y
-
-apt install irssi-scripts vim-doc vim-scripts -y
+apt install hexchat wireshark pidgin -y
 
 ### UNITY3D
 
