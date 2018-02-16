@@ -2,7 +2,7 @@
 
 set -e
 
-### DEBIAN 9
+### Debian 9 setup apps
 
 # tasksel
 
@@ -26,15 +26,15 @@ apt install tcpdump shellcheck bash-completion nmap -y
 
 apt install vim-doc vim-scripts irssi-scripts -y
 
-### SIMPLE
+### Simple
 
-apt install vim-gnome terminator conky psensors gparted gdisk -y
+apt install vim-gnome terminator conky xsensors gparted gdisk -y
 
 apt install xfce4 xfce4-goodies task-xfce-desktop
 
 apt install xfce4-whiskermenu-plugin xfce4-indicator-plugin -y
 
-### OFFICE CAD GRAPHICS MUSIC ART
+### Office CAD Graphics Music Art
 
 apt install thunar rhythmbox synaptic -y
 
@@ -56,11 +56,11 @@ apt install ardour audacity xmms -y
 
 apt install hexchat wireshark pidgin -y
 
-### UNITY3D
+### Unity3D
 
 #apt-get install monodevelop mono-reference-assemblies-* -y
 
-### UNREAL
+### Unreal Engine
 
 #apt-get install codelite codelite-plugins -y
 
@@ -68,13 +68,10 @@ apt install hexchat wireshark pidgin -y
 
 apt-get install kdevelop qtcreator -y
 
-### INSTALL YOURSELF
+### Manual Install
 
 #chrome pycharm intellij
 #atom sublimetext2
-
-# install ~/.tmux.conf
-# install ~/.vimrc
 
 #apt install eclipse eclipse-cdt -y
 
