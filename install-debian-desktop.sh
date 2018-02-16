@@ -1,5 +1,4 @@
 #!/bin/bash
-
 set -e
 
 ### Debian 9 setup apps
@@ -52,21 +51,21 @@ apt install fontforge -y
 
 apt install mixxx lmms terminatorx hydrogen -y
 
-apt install ardour audacity xmms -y
+apt install ardour audacity xmms2 -y
 
 apt install hexchat wireshark pidgin -y
 
 ### Unity3D
 
-#apt-get install monodevelop mono-reference-assemblies-* -y
+#apt install monodevelop mono-reference-assemblies-* -y
 
 ### Unreal Engine
 
-#apt-get install codelite codelite-plugins -y
+#apt install codelite codelite-plugins -y
 
 ### KDE
 
-apt-get install kdevelop qtcreator -y
+#apt install kdevelop qtcreator -y
 
 ### Manual Install
 
@@ -76,3 +75,5 @@ apt-get install kdevelop qtcreator -y
 #apt install eclipse eclipse-cdt -y
 
 #apt install gradle -y
+
+echo "Done"
