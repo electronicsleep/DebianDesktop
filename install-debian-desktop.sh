@@ -33,7 +33,7 @@ apt install r-base r-base-dev -y
 
 apt install golang -y
 
-install build-essential -y
+apt install build-essential -y
 
 ### Simple
 
