@@ -13,7 +13,7 @@ apt update
 
 apt upgrade -y
 
-apt install ssh net-tools -y 
+apt install ssh net-tools curl wget -y
 
 apt install screenfetch -y
 
@@ -24,6 +24,16 @@ apt install screen nload iotop vim irssi wget lynx tmux -y
 apt install tcpdump shellcheck bash-completion nmap -y
 
 apt install vim-doc vim-scripts irssi-scripts -y
+
+apt install python python3 python-pip python3-pip -y
+
+apt install ansible fish -y
+
+apt install r-base r-base-lang -y
+
+apt install golang -y
+
+install build-essential -y
 
 ### Simple
 
