@@ -29,7 +29,7 @@ apt install python python3 python-pip python3-pip -y
 
 apt install ansible fish -y
 
-apt install r-base r-base-lang -y
+apt install r-base r-base-dev -y
 
 apt install golang -y
 
