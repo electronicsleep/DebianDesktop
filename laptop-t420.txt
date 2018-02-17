@@ -28,7 +28,7 @@
 
 # bash install-env.sh
 
-#### Themes XFCE
+#### Window Manager: XFCE (lightweight)
 
 # apt install arc-theme moka-icon-theme numix-gtk-theme numix-icon-theme
 
@@ -46,3 +46,10 @@
 # set appearance style to xfce-flat or Numix icons to Faba or Moka
 # set window manager to Numix
 
+### Window Manager: Gnome
+
+# apt install gdm3
+
+# apt install gnome
+
+# dpkg-reconfigure gdm3
