@@ -23,3 +23,23 @@
 # mkdir ~/Repos
 
 # git clone git@github.com:electronicsleep/DebianDesktop.git
+
+# bash install-debian-desktop.sh
+
+# bash install-env.sh
+
+# Theme
+
+# apt install arc-theme moka-icon-theme numix-gtk-theme numix-icon-theme
+
+# apt install lightdm-gtk-greeter-settings
+
+# remove regular menu and setup whiskermenu
+
+# set appearance style to xfce-flat icons to Adwaita
+# set window manager to Kokodi
+
+# set appearance style to Numix icons to Moka
+# set window manager to Numix
+
+# tweaks Cycle through windows on all workspace
