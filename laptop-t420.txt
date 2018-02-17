@@ -28,7 +28,7 @@
 
 # bash install-env.sh
 
-# Theme
+#### Themes XFCE
 
 # apt install arc-theme moka-icon-theme numix-gtk-theme numix-icon-theme
 
@@ -36,10 +36,13 @@
 
 # remove regular menu and setup whiskermenu
 
-# set appearance style to xfce-flat icons to Adwaita
-# set window manager to Kokodi
+# tweaks Cycle through windows on all workspace
 
-# set appearance style to Numix icons to Moka
+# Light
+# set appearance style to xfce-light icons to Faba
+# Set windows manager to Greybird
+
+# Dark
+# set appearance style to xfce-flat or Numix icons to Faba or Moka
 # set window manager to Numix
 
-# tweaks Cycle through windows on all workspace
