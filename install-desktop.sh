@@ -37,7 +37,7 @@ apt install build-essential -y
 
 ### Simple
 
-apt install vim-gnome terminator conky xsensors gparted gdisk -y
+apt install vim-gnome terminator conky xsensors psensor gparted gdisk -y
 
 apt install xfce4 xfce4-goodies task-xfce-desktop
 
