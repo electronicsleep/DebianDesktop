@@ -14,7 +14,7 @@
 
 # deb http://httpredir.debian.org/debian/ stretch main contrib non-free
 
-# apt-get update && apt-get install firmware-iwlwifi
+# apt update && apt install firmware-iwlwifi
 
 # modprobe -r iwlwifi ; modprobe iwlwifi
 
@@ -39,7 +39,7 @@
 # tweaks Cycle through windows on all workspace
 
 # Light
-# set appearance style to xfce-light icons to Faba
+# set appearance style to Xfce-curve icons to Faba
 # Set windows manager to Greybird
 
 # Dark
