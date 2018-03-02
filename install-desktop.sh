@@ -39,7 +39,7 @@ apt install build-essential -y
 
 apt install vim-gnome terminator conky xsensors psensor gparted gdisk -y
 
-apt install xfce4 xfce4-goodies task-xfce-desktop
+apt install xfce4 xfce4-goodies task-xfce-desktop -y
 
 apt install xfce4-whiskermenu-plugin xfce4-indicator-plugin -y
 
