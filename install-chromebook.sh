@@ -16,10 +16,10 @@ Step 3) install GNU/Linux software
 
 read -p "Ready to install? (y/n) " -n 1 -r
 echo    
- if [[ $REPLY =~ ^[Yy]$ ]]
+if [[ $REPLY =~ ^[Yy]$ ]]
 then
 
-sudo apt-get update && sudo apt-get upgrade
+sudo apt-get update && sudo apt-get upgrade -y
 
 sudo apt-get install terminator htop vim tree bash-completion git rsync irssi tmux -y
 
