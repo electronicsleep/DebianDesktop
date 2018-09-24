@@ -1,25 +1,26 @@
 #!/bin/bash
 set -e
 
-### Debian 9 setup apps
+### Debian 10 setup apps
 
 # tasksel
 
 # install gnome - laptop tools
 
-### CLI BASED
+### CLI Programs
 
-apt update
+read -p "Install CLI programs? (y/n) " -n 1 -r
+echo
+if [[ $REPLY =~ ^[Yy]$ ]]
+then
 
-apt upgrade -y
+apt update && apt upgrade -y
 
-apt install ssh net-tools curl wget -y
-
-apt install screenfetch -y
+apt install ssh net-tools curl wget screenfetch -y
 
 apt install htop tree ssh fail2ban rsync git -y
 
-apt install screen nload iotop vim irssi wget lynx tmux -y
+apt install nload iotop vim irssi wget lynx tmux -y
 
 apt install tcpdump shellcheck bash-completion nmap -y
 
@@ -29,13 +30,16 @@ apt install python python3 python-pip python3-pip -y
 
 apt install ansible fish -y
 
-apt install r-base r-base-dev -y
-
-apt install golang -y
-
 apt install build-essential -y
 
-### Simple
+fi
+
+### GUI Programs
+
+read -p "Install GUI programs? (y/n) " -n 1 -r
+echo
+if [[ $REPLY =~ ^[Yy]$ ]]
+then
 
 apt install vim-gnome terminator conky xsensors psensor gparted gdisk -y
 
@@ -64,6 +68,8 @@ apt install mixxx lmms terminatorx hydrogen -y
 apt install ardour audacity xmms2 -y
 
 apt install hexchat wireshark pidgin -y
+
+fi
 
 ### Unity3D
 

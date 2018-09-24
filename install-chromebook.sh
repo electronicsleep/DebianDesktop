@@ -16,7 +16,7 @@ Step 3) install GNU/Linux software
 "
 
 read -p "Install cli programs? (y/n) " -n 1 -r
-echo    
+echo
 if [[ $REPLY =~ ^[Yy]$ ]]
 then
 
@@ -27,7 +27,7 @@ sudo apt-get install terminator htop vim tree bash-completion git rsync irssi tm
 fi
 
 read -p "Install gui programs? (y/n) " -n 1 -r
-echo    
+echo
 if [[ $REPLY =~ ^[Yy]$ ]]
 then
 
