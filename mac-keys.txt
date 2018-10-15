@@ -1,0 +1,17 @@
+Change Linux keys to Mac keybindings
+
+apt-get install gnome-tweak tool
+
+typing -> alt win keys -> control is mapped to win key (and usual ctrl keys)
+
+Settings -> Keyboard -> switch applications is Ctrl+Tab
+
+* Change show all applications -> LaunchB
+* Show the activities overview - launchA
+
+vim ~/.config/gtk-3.0/settings.ini
+
+[Settings]
+gtk-enable-primary-paste=true
+
+* change in gnome terminal copy paste close
