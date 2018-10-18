@@ -71,6 +71,10 @@ apt install hexchat wireshark pidgin -y
 
 fi
 
+### Install Spotify
+
+#https://www.spotify.com/us/download/linux/
+
 ### Unity3D
 
 #apt install monodevelop mono-reference-assemblies-* -y
