@@ -2,7 +2,8 @@
 
 apt-get install gnome-tweak tool
 
-Typing -> alt win keys -> control is mapped to win key (and usual ctrl keys)
+Ubuntu: Tweaks -> Keyboard & Mouse -> Additional Layout Options -> Alt win keys -> Control is mapped to win key (and usual ctrl keys)
+Debian: Typing -> Alt win keys -> Control is mapped to win key (and usual ctrl keys)
 
 Settings -> Keyboard -> 
 * Switch applications is Ctrl+Tab
