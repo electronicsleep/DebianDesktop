@@ -63,7 +63,7 @@ apt install gnome-builder -y
 
 apt install fontforge -y
 
-apt install mixxx lmms terminatorx hydrogen -y
+apt install mixxx lmms terminatorx hydrogen qtractor -y
 
 apt install ardour audacity xmms2 -y
 
