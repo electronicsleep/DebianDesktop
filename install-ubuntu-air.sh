@@ -41,6 +41,8 @@ apt-get install gnome-tweaks -y
 
 apt-get install gnome-builder vim-gnome -y
 
+fi
+
 # install spotify (snap)
 # install pycharm (snap)
 # install atom (snap)
