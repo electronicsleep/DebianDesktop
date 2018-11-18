@@ -1,5 +1,6 @@
 #!/bin/bash
 # MacBook Air (13-inch early 2015)
+# Ubuntu 18.04 bionic
 set -e
 
 apt-get update
