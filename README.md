@@ -1,8 +1,6 @@
 # DebianDesktop
 
-Run Debian on the desktop
-
-Scripts used to setup my system
+DebianDesktop - Tools for Debian/Ubuntu
 
 Tools for using laptop + desktop with Debian
 
