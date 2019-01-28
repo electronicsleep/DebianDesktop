@@ -2,8 +2,8 @@
 
 DebianDesktop - Tools for Debian/Ubuntu
 
-Tools for using laptop + desktop with Debian
+Tools/scripts for setup and using laptop + desktop with Debian
 
-Use my desktop for affordable performance and Nvidia/GPU tasks (blender)
+Use my desktop for affordable performance and Nvidia/GPU tasks (blender/steam)
 
-Still using MacOS so checkout mac-keys.txt for setting up same keyboard layout
+For MacOS keys checkout mac-keys.txt for setting up same keyboard layout
