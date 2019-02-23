@@ -1,14 +1,14 @@
-# Change Linux keys to Mac keybindings
+# Change Linux keys to Mac keybindings (for mac users)
 
-apt-get install gnome-tweak tool
+apt-get install gnome-tweak tool -y
 
-Ubuntu: Tweaks -> Keyboard & Mouse -> Additional Layout Options -> Alt win keys -> Control is mapped to win key (and usual ctrl keys)
-Debian: Typing -> Alt win keys -> Control is mapped to win key (and usual ctrl keys)
+# Ubuntu: Tweaks -> Keyboard & Mouse -> Additional Layout Options -> Alt win keys -> Control is mapped to win key (and usual ctrl keys)
+# Debian: Typing -> Alt win keys -> Control is mapped to win key (and usual ctrl keys)
 
-Settings -> Keyboard -> 
-* Switch applications is Ctrl+Tab
-* Change show all applications -> LaunchB
-* Show the activities overview - launchA
-* Lock screen - Ctrl+L
+# Settings -> Keyboard -> 
+# * Switch applications is Ctrl+Tab
+# * Change show all applications -> LaunchB
+# * Show the activities overview - launchA
+# * Lock screen - Ctrl+L
 
-* Change in gnome terminal/terminator copy paste close
+# * Change in gnome terminal/terminator copy paste close
