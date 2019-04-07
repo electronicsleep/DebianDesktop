@@ -18,19 +18,19 @@ apt update && apt upgrade -y
 
 apt install ssh net-tools curl wget screenfetch -y
 
-apt install htop tree ssh fail2ban rsync git -y
+apt install htop tree ssh fail2ban rsync git bash-completion shellcheck  -y
 
 apt install nload iotop vim irssi wget lynx tmux -y
-
-apt install tcpdump shellcheck bash-completion nmap -y
 
 apt install vim-doc vim-scripts irssi-scripts -y
 
 apt install python python3 python-pip python3-pip -y
 
-apt install ansible fish -y
-
 apt install build-essential -y
+
+#apt install ansible fish -y
+
+#apt install tcpdump nmap -y
 
 fi
 
@@ -43,31 +43,33 @@ then
 
 apt install vim-gnome terminator conky xsensors psensor gparted gdisk -y
 
-apt install xfce4 xfce4-goodies task-xfce-desktop -y
+apt install keepassx gimp vlc -y
 
-apt install xfce4-whiskermenu-plugin xfce4-indicator-plugin -y
+apt install gnome-builder gitg -y
+
+#apt install xfce4 xfce4-goodies task-xfce-desktop -y
+
+#apt install xfce4-whiskermenu-plugin xfce4-indicator-plugin -y
 
 ### Office CAD Graphics Music Art
 
-apt install thunar rhythmbox synaptic -y
+#apt install thunar rhythmbox synaptic -y
 
-apt install keepassx inkscape vlc handbrake gxine -y
+#apt install handbrake -y
 
-apt install libreoffice -y
+#apt install libreoffice -y
 
-apt install gimp darktable digikam krita mypaint dia gpaint blender -y
+#apt install darktable digikam krita mypaint dia gpaint blender -y
 
-apt install freecad librecad filezilla -y
+#apt install freecad librecad filezilla -y
 
-apt install gnome-builder -y
+#apt install fontforge -y
 
-apt install fontforge -y
+#apt install mixxx lmms terminatorx hydrogen qtractor -y
 
-apt install mixxx lmms terminatorx hydrogen qtractor -y
+#apt install ardour audacity xmms2 -y
 
-apt install ardour audacity xmms2 -y
-
-apt install hexchat wireshark pidgin -y
+#apt install hexchat wireshark pidgin -y
 
 fi
 
