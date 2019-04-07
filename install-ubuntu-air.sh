@@ -44,6 +44,7 @@ apt-get install gimp inkscape krita blender darktable -y
 
 # Development
 apt-get install gnome-builder vim-gnome -y
+apt-get install gitg
 #apt-get install openjdk-8-jdk -y
 
 fi
