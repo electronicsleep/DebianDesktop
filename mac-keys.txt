@@ -1,4 +1,4 @@
-# Change Linux keys to Mac keybindings (for mac users)
+# Change Linux keys to Mac like keybindings (for mac users)
 # Having the same keys as my 2015 MacBook Pro is convenient
 
 apt-get install gnome-tweak tool -y
@@ -19,4 +19,3 @@ apt-get install gnome-tweak tool -y
 # https://www.gnome-look.org/p/1099856/
 # https://www.gnome-look.org/p/1102582/
 # https://www.gnome-look.org/p/1210856/
-
